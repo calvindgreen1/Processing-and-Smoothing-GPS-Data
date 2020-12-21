@@ -16,7 +16,7 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 3) After having obtained smoothed out GPX data, calculated the distance travelled using the Haversine Formula.
 4) Output smoothed GPX data and distance travelled
 
-## How to Build Project
+## How to Build The Project
 
 1) Ensure the GPX based data file is in the same directory as script. Let's call it `walk1.gpx`.
 2) Run the following command: `python3 calc_distance.py walk1.gpx`.
