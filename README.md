@@ -24,7 +24,7 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 
 ## Example Output
 
-**Walk 1 Raw GPX**
+**Walk 1 Raw (unsmoothed) GPX**
 
 ![](/Plots/Walk%201%20Unsmoothed.png)
 
@@ -32,5 +32,17 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 **Walk 1 Smoothed GPX**
 
 ![](/Plots/Walk%201%20Smoothed.png)
+
+
+
+**Walk 2 Raw (unsmoothed) GPX**
+
+![](/Plots/Walk%202%20Unsmoothed.png)
+
+
+**Walk 2 Smoothed GPX**
+
+![](/Plots/Walk%202%20Smoothed.png)
+
 
 
