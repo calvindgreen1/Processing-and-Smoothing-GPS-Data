@@ -21,3 +21,16 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 1) Ensure the GPX based data file is in the same directory as script. Let's call it `walk1.gpx`.
 2) Run the following command: `python3 calc_distance.py walk1.gpx`.
 3) The smoothed out GPX file comes out a`out.GPX` and the approximated distance travelled is in the file `calc_distance.txt`.
+
+## Example Output
+
+**Walk 1 Raw GPX**
+
+![](/Plots/Walk%201%20Unsmoothed.png)
+
+
+**Walk 1 Smoothed GPX**
+
+![](/Plots/Walk%201%20Smoothed.png)
+
+
