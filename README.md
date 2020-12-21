@@ -33,6 +33,9 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 
 ![](/Plots/Walk%201%20Smoothed.png)
 
+Walk 1 Distance Travelled
+- Unfiltered distance: 3186.44
+- Filtered distance: 1391.33
 
 
 **Walk 2 Raw (unsmoothed) GPX**
@@ -42,7 +45,10 @@ In this project, I first gathered GPX (GPS XML) data with my smartphone and then
 
 **Walk 2 Smoothed GPX**
 
-![](/Plots/Walk%202%20Smoothed.png)
+![](/Plots/walk%202%20Smoothed.png)
 
+Walk 2 Distance Travelled
+- Unfiltered distance: 1729.01
+- Filtered distance: 1430.37
 
 
